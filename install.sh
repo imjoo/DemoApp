@@ -1,2 +1,3 @@
 #!/bin/bash
-systemctl restart httpd
+sudo systemctl status httpd
+
